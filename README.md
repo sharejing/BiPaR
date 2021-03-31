@@ -1,4 +1,4 @@
-# BiPaR
+# BiPaR (Including testing set)
 
 > General Description
 
@@ -10,6 +10,7 @@ and cross-lingual reading comprehension.
 BiPaR homepage: <https://multinlp.github.io/BiPaR/>  
 Paper link: <https://arxiv.org/abs/1910.05040>
 
+**The data format of BiPaR is the same as SQuAD, so you can process BiPaR like SQuAD.**
 
 ## Monolingual MRC
 
