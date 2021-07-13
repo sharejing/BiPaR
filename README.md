@@ -12,15 +12,17 @@ Paper link: <https://arxiv.org/abs/1910.05040>
 
 **The data format of BiPaR is the same as SQuAD, so you can process BiPaR like SQuAD.**
 
-> **The leaderboard of Monoligual MRC**
+> **The leaderboard of Monoligual MRC (Testing set)**
 
 | Models     |                   |                   |
 | :-----     | :----:            | :----:            |
 |            | English (EM/F1)   | Chinese (EM/F1)   |
-| ViReader   | 49.40/62.68       | 52.87/70.22       |
+| Human      | 80.50/91.93       | 81.50/92.12       |
+| **ViReader**   | 49.40/62.68       | 52.87/70.22       |
 | BERT_large | 42.53/56.48       |     -/-           |
 | BERT_base  | 41.40/55.03       | 48.87/64.09       |
 | DrQA       | 27.00/39.29       | 37.40/53.11       |
+| R-net      | 21.33/31.05       | 24.67/38.57       |
 
 ## Monolingual MRC
 
