@@ -14,7 +14,7 @@ Paper link: <https://arxiv.org/abs/1910.05040>
 
 > **The leaderboard of Monoligual MRC**
 
-|                                                    |
+| Models     |                   |                   |
 | :-----     | :----:            | :----:            |
 |            | English (EM/F1)   | Chinese (EM/F1)   |
 | ViReader   | 49.40/62.68       | 52.87/70.22       |
