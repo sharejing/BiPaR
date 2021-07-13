@@ -12,7 +12,15 @@ Paper link: <https://arxiv.org/abs/1910.05040>
 
 **The data format of BiPaR is the same as SQuAD, so you can process BiPaR like SQuAD.**
 
-## Monolingual MRC
+|  |  |  |
+| :-----| :----: | :----: |
+|       | English | Chinese |
+| ViReader   | 49.40/62.68 | 52.87/70.22 |
+| BERT_large | 42.53/56.48 |     -/-     |
+| BERT_base  | 41.40/55.03 | 48.87/64.09 |
+| DrQA       | 27.00/39.29 | 37.40/53.11 |
+
+##Monolingual MRC
 
 (P<sub>en</sub>, Q<sub>en</sub>, A<sub>en</sub>) or (P<sub>zh</sub>, Q<sub>zh</sub>, A<sub>zh</sub>). With these two
 monolingual MRC forms, we can investigate the performance variation of the same MRC model trained on two different 
