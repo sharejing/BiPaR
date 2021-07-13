@@ -18,7 +18,7 @@ Paper link: <https://arxiv.org/abs/1910.05040>
 | :-----     | :----:            | :----:            |
 |            | English (EM/F1)   | Chinese (EM/F1)   |
 | Human      | 80.50/91.93       | 81.50/92.12       |
-| **ViReader**   | 49.40/62.68       | 52.87/70.22       |
+| **[ViReader](https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs210683)**   | **49.40**/**62.68**       | **52.87**/**70.22**       |
 | BERT_large | 42.53/56.48       |     -/-           |
 | BERT_base  | 41.40/55.03       | 48.87/64.09       |
 | DrQA       | 27.00/39.29       | 37.40/53.11       |
