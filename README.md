@@ -12,7 +12,7 @@ Paper link: <https://arxiv.org/abs/1910.05040>
 
 **The data format of BiPaR is the same as SQuAD, so you can process BiPaR like SQuAD.**
 
-> **The leaderboard of Monoligual MRC (Testing set)**
+> **The leaderboard of Monolingual MRC (Testing set)**
 
 | Models     |                   |                   |
 | :-----     | :----:            | :----:            |
